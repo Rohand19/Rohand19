@@ -1,4 +1,5 @@
-# 🚀 Rohan Divakar | AIML Engineer | Tech Geek | Automation |
+# 🚀 Rohan Divakar 
+| Intern @ Peoplebox.ai | AIML Engineer | 
 
 ---
 
