@@ -37,7 +37,7 @@
 | 🗣️ **Sentiment Analysis Chatbot** | Designed a chatbot capable of analyzing and responding to sentiment-based inputs. |
 | 🍽️ **Restaurant Reservation Web App** | Full-stack MERN project for managing online table reservations. |
 
-🔗 **More Projects**: [GitHub](https://github.com/Rohand19)  
+🔗 **More Projects**: [GitHub](https://github.com/Rohand19?tab=repositories)  
 
 ---
 
