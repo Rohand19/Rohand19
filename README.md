@@ -17,7 +17,7 @@
 ---
 
 ## 🛠 Tech Stack  
-🔹 **Languages**: Python, C, SQL, JavaScript
+🔹 **Languages**: Python, C, SQL, JavaScript  
 🔹 **ML & AI**: TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, PyTorch  
 🔹 **Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 🔹 **Cloud & DevOps**: Docker, Google Cloud, ServiceNow  
