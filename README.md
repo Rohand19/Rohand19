@@ -1,5 +1,5 @@
 # 🚀 Rohan Divakar 
-| Intern @ Peoplebox.ai | AIML Engineer | 
+### | Intern @ Peoplebox.ai 🧑‍💼 | AIML Engineer 💻 | 
 
 ---
 
