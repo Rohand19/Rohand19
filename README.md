@@ -13,7 +13,7 @@
 - 🧠 Passionate about **Machine Learning, AI, and Cloud Computing**  
 - 🔐 Exploring **encryption, authentication, and digital security**  
 - 🌍 Developing **MERN stack applications & automation tools**  
-- 🎬 Veteran **Phtotgrapher**  
+- 🎬 Seasoned **Phtotgrapher & Editor**  
 
 ---
 
@@ -50,7 +50,7 @@
 ---
 
 ## 🎭 Extra-Curricular Activities  
-- 🎤 **Student Cultural Coordinator (CPA, DSCE)** – Led initivates & managed cultural events across the campus
+- 🧙‍♂️ **Student Cultural Coordinator (CPA, DSCE)** – Led initivates & managed cultural events across the campus.
 - 🎥 **Team Head for Media (2023-24)** – Led a media team of 60+ for photography, graphic design, and video editing.   
 
 ---
