@@ -1,5 +1,5 @@
-# 🚀 Rohan Divakar 
-**| Intern @ Peoplebox.ai 🧑‍💼 | AIML Engineer 💻 |**
+# 🚀 Rohan Divakar  
+**| Intern @ Peoplebox.ai 🧑‍💼 | AI/ML Engineer 💻 |**  
 
 ---
 
@@ -13,15 +13,15 @@
 - 🧠 Passionate about **Machine Learning, AI, and Cloud Computing**  
 - 🔐 Exploring **encryption, authentication, and digital security**  
 - 🌍 Developing **MERN stack applications & automation tools**  
-- 🎬 Seasoned **Phtotgrapher & Editor**  
+- 🎬 Seasoned **Photographer & Editor**  
 
 ---
 
 ## 🛠 Tech Stack  
-🔹 **Languages**: Python, C, SQL, JavaScript  
-🔹 **ML & AI**: TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, PyTorch  
-🔹 **Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-🔹 **Cloud & DevOps**: Docker, Google Cloud, ServiceNow  
+- **Languages**: Python, C, SQL, JavaScript  
+- **ML & AI**: TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, PyTorch  
+- **Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- **Cloud & DevOps**: Docker, Google Cloud, ServiceNow  
 
 ---
 
@@ -50,12 +50,12 @@
 ---
 
 ## 🎭 Extra-Curricular Activities  
-- 🧙‍♂️ **Student Cultural Coordinator (CPA, DSCE)** – Led initivates & managed cultural events across the campus.
-- 🎥 **Team Head for Media (2023-24)** – Led a media team of 60+ for photography, graphic design, and video editing.   
+- 🧙‍♂️ **Student Cultural Coordinator (CPA, DSCE)** – Led initiatives & managed cultural events across the campus.  
+- 🎥 **Team Head for Media (2023-24)** – Led a media team of 60+ for photography, graphic design, and video editing.  
 
 ---
 
 ## 📫 Let's Connect!  
-🏆 [LinkedIn](https://www.linkedin.com/in/rohan-divakar-b47417230/) 
+🏆 [LinkedIn](https://www.linkedin.com/in/rohan-divakar-b47417230/)  
 
 🚀 **Always learning, building, and creating!**  
