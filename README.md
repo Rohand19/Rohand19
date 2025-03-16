@@ -10,8 +10,8 @@
 ---
 
 ## 🔥 About Me  
-- 🧠 Passionate about **Machine Learning, AI, and Cloud Computing**  
-- 🔐 Exploring **encryption, authentication, and digital security**  
+- 🧠 Passionate about **AI & ML**  
+- 🔐 Exploring **cybersecurity**  
 - 🌍 Developing **MERN stack applications & automation tools**  
 - 🎬 Seasoned **Photographer & Editor**  
 
