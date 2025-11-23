@@ -1,5 +1,5 @@
 # 🚀 Rohan Divakar  
-**| Intern @ Peoplebox.ai 🧑‍💼 | AI/ML Engineer 💻 |**  
+**| GenAi @ NoBroker.com |ConvoZen.AI |**  
 
 ---
 
@@ -11,8 +11,6 @@
 
 ## 🔥 About Me  
 - 🧠 Passionate about **AI & ML**  
-- 🔐 Exploring **cybersecurity**  
-- 🌍 Developing **MERN stack applications & automation tools**  
 - 🎬 Seasoned **Photographer & Editor**  
 
 ---
@@ -20,7 +18,6 @@
 ## 🛠 Tech Stack  
 - **Languages**: Python, C, SQL, JavaScript  
 - **ML & AI**: TensorFlow, Scikit-learn, NumPy, Pandas, OpenCV, PyTorch  
-- **Web Dev**: MERN Stack (MongoDB, Express.js, React.js, Node.js)  
 - **Cloud & DevOps**: Docker, Google Cloud, ServiceNow  
 
 ---
